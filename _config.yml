@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://crizgonzalez.github.io
+title: crizgonzalez
+tagline: tech + social science
+description: keeping record of some ideas 
+paginate: 3
